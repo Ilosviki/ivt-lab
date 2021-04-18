@@ -1,4 +1,4 @@
-//Branch-A Comment
+//Branch-B Comment
 package hu.bme.mit.spaceship;
 
 /**
