@@ -14,6 +14,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
+  // SecureRandom insted of Random to be safe
   private Random generator = new SecureRandom();
 
   public TorpedoStore(int numberOfTorpedos){
